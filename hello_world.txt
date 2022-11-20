@@ -1,1 +1,2 @@
 Hello beautiful world!
+Testing the git commit VS editor
