@@ -1,3 +1,6 @@
 Hello beautiful world!
 Testing the git commit VS editor
 Test again, 123 ... Hehehe 
+
+
+Another test to make a commit without the -m command. 
