@@ -3,4 +3,9 @@ Testing the git commit VS editor
 Test again, 123 ... Hehehe 
 
 
-Another test to make a commit without the -m command. 
+Another test to make a commit without the -m command.
+
+After hours of trying to fix both the shell command feature to use the "code ." command, and the "git commit" command, i finally did !!!!
+Here is another test just to prove to myself that it's working.
+
+P.S. I also had to troublshoot fixing my previous commits because i was getting an error where it would not push because of updated email and privacy settings when i reinstalled git and vscode.
